@@ -1,0 +1,6 @@
+\begin{table}
+  \begin{tabular}{ccc}
+    a & b & rc\\
+    c &   & d \\
+  \end{tabular}
+\end{table}
